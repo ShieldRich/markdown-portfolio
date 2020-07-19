@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Delicious food
+* Spending time with family
+* Lots of Coding!
